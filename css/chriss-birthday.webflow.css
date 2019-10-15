@@ -331,9 +331,23 @@
   background-size: cover, cover;
 }
 
-.div-block.terrance {
-  background-image: url('../images/source.gif');
-  background-position: 50% 50%;
-  background-size: cover;
+.div-block.matt {
+    background-image: url(../images/IMG_9757.jpg);
+    background-position: 50% 4%;
+    background-size: cover;
 }
-
+.div-block.jchu {
+    background-image: url(../images/DSC04610.jpg);
+    background-position: 69% 17%;
+    background-size: 112% auto;
+}
+.div-block.eric {
+    background-image: url(../images/31493432_1595209503910810_6853860380905570304_o.jpg);
+    background-position: 36% 4%;
+    background-size: 120% auto;
+}
+.div-block.terr {
+    background-image: url(../images/IMG_9757.jpg);
+    background-position: 50% 4%;
+    background-size: cover;
+}
